@@ -34,7 +34,13 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+<<<<<<< HEAD
 
+=======
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+>>>>>>> de054ce432caed3631f274ebe146f1b87cf7aa51
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
